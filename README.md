@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Zara products</h2>
 
-![Zara products dataset header](https://github.com/luminati-io/Google-Shopping-dataset-sample/blob/main/Google-Shopping-datasets.png)
+![Zara products dataset header](https://github.com/luminati-io/Zara-dataset-sample/blob/main/Zara-datasets.png)
 
 A Zara products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
